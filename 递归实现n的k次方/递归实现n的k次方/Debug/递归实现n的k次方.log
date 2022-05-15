@@ -1,0 +1,3 @@
+﻿  test.c
+D:\learning\learning-record\递归实现n的k次方\递归实现n的k次方\test.c(23): warning C4715: “pow”: 不是所有的控件路径都返回值
+  递归实现n的k次方.vcxproj -> D:\learning\learning-record\递归实现n的k次方\Debug\递归实现n的k次方.exe
