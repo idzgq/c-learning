@@ -1,4 +1,0 @@
-﻿  源.c
-D:\learning\learning-record\三角形面积海伦公式\三角形面积海伦公式\源.c(9,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-D:\learning\learning-record\三角形面积海伦公式\三角形面积海伦公式\源.c(11,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  三角形面积海伦公式.vcxproj -> D:\learning\learning-record\三角形面积海伦公式\Debug\三角形面积海伦公式.exe
