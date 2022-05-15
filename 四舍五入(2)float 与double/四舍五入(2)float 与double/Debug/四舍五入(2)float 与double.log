@@ -1,0 +1,4 @@
+﻿  test.c
+D:\learning\learning-record\四舍五入(2)float 与double\四舍五入(2)float 与double\test.c(22,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\learning\learning-record\四舍五入(2)float 与double\四舍五入(2)float 与double\test.c(27,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  四舍五入(2)float 与double.vcxproj -> D:\learning\learning-record\四舍五入(2)float 与double\Debug\四舍五入(2)float 与double.exe

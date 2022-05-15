@@ -1,0 +1,6 @@
+﻿  test.c
+D:\learning\learning-record\四舍五入\四舍五入\test.c(12,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learning\learning-record\四舍五入\四舍五入\test.c(17,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learning\learning-record\四舍五入\四舍五入\test.c(25,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\learning\learning-record\四舍五入\四舍五入\test.c(30,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  四舍五入.vcxproj -> D:\learning\learning-record\四舍五入\Debug\四舍五入.exe

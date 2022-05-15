@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "再分肥宅水", "再分肥宅水\再分肥宅水.vcxproj", "{AEF89475-728D-4DE5-82D7-721C6ACD87EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Debug|x64.ActiveCfg = Debug|x64
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Debug|x64.Build.0 = Debug|x64
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Debug|x86.Build.0 = Debug|Win32
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Release|x64.ActiveCfg = Release|x64
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Release|x64.Build.0 = Release|x64
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Release|x86.ActiveCfg = Release|Win32
+		{AEF89475-728D-4DE5-82D7-721C6ACD87EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D0B1E3-CE16-4A84-833E-D83A47F89344}
+	EndGlobalSection
+EndGlobal
