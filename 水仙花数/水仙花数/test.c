@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include <math.h>
-// 法一    循环
+// 娉曚竴 
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-//法二     
+//娉曚簩  浼樺寲   
 
 
 
