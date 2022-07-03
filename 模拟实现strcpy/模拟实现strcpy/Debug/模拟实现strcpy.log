@@ -1,0 +1,4 @@
+﻿  test.c
+D:\learning record\test\c-learning\模拟实现strcpy\模拟实现strcpy\test.c(15,12): warning C4047: “return”:“char *”与“int”的间接级别不同
+D:\learning record\test\c-learning\模拟实现strcpy\模拟实现strcpy\test.c(7,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  模拟实现strcpy.vcxproj -> D:\learning record\test\c-learning\模拟实现strcpy\Debug\模拟实现strcpy.exe
