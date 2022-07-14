@@ -1,0 +1,4 @@
+﻿  test.c
+D:\learning record\c-learning\strlen模拟实现优化\strlen模拟实现优化\test.c(17,8): error C2084: 函数“size_t my_strlen(const char *)”已有主体
+D:\learning record\c-learning\strlen模拟实现优化\strlen模拟实现优化\test.c(5): message : 参见“my_strlen”的前一个定义
+D:\learning record\c-learning\strlen模拟实现优化\strlen模拟实现优化\test.c(20,1): warning C4090: “初始化”: 不同的“const”限定符
